@@ -17,7 +17,7 @@ YouTube link: https://youtu.be/tgJbthLUss4
 ### 1️⃣ Watch the YouTube Video
 
 ### 2️⃣ overviews Folder
-Read overviews (overall description & views) for the big picture.
+Read overviews (overall description & views) for the big picture
 
 ### 3️⃣ documents Folder (Read in order)
   - SRS.pdf
