@@ -7,7 +7,7 @@ Track and visualize children’s growth based on accurate medical standards, com
 - Phan Ngọc Hạnh Nhi
 - Lê Thị Minh Tươi
 - Vũ Quang Huy
-- Trần Trung 
+- Trần Trung Hậu
 
 ## 🎥 Project Demo (YouTube)
 YouTube link: https://youtu.be/tgJbthLUss4
