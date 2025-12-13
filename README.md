@@ -14,7 +14,6 @@ YouTube link: *(will be added later)*
 Read overviews (overall description & views) for the big picture.
 
 ### 3️⃣ documents Folder (Read in order)
-- Child_Growth_Tracking_System
   - SRS.pdf
   - Main Processes (Overall Flow).pdf
   - Outside System-Boundary.pdf
