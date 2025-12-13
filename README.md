@@ -10,10 +10,10 @@ YouTube link: *(will be added later)*
 
 ### 1️⃣ Watch the YouTube Video
 
-### 2️⃣ Overviews Folder
+### 2️⃣ overviews Folder
 Read overviews (overall description & views) for the big picture.
 
-### 3️⃣ Documents Folder (Read in order)
+### 3️⃣ documents Folder (Read in order)
 - Child_Growth_Tracking_System
   - SRS.pdf
   - Main Processes (Overall Flow).pdf
@@ -21,7 +21,7 @@ Read overviews (overall description & views) for the big picture.
   - Short Use Cases.pdf
   - Long Use Cases.pdf *(Optional)*
 
-### 4️⃣ Diagrams Folder (Read in order)
+### 4️⃣ diagrams Folder (Read in order)
 - ERD.jpg
 - DFD_Level_0.jpg
 - UML Diagram.jpg
