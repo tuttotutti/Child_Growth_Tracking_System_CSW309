@@ -1,7 +1,7 @@
 # Child_Growth_Tracking_System_CSW309
 
 ## 📌 Project Overview
-Theo dõi và trực quan hóa sự phát triển của trẻ em dựa trên các tiêu chuẩn y tế chính xác, so sánh với các chuẩn tăng trưởng quốc tế, đồng thời giúp dễ dàng chia sẻ hoặc phân tích dữ liệu.
+Track and visualize children’s growth based on accurate medical standards, compare it with international growth benchmarks, and enable easy data sharing and analysis.
 
 ## 🎥 Project Demo (YouTube)
 YouTube link: *(will be added later)*
