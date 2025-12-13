@@ -3,8 +3,14 @@
 ## 📌 Project Overview
 Track and visualize children’s growth based on accurate medical standards, compare it with international growth benchmarks, and enable easy data sharing and analysis.
 
+## Members:
+- Phan Ngọc Hạnh Nhi
+- Lê Thị Minh Tươi
+- Vũ Quang Huy
+- Trần Trung 
+
 ## 🎥 Project Demo (YouTube)
-YouTube link: *(will be added later)*
+YouTube link: https://youtu.be/tgJbthLUss4
 
 ## 📖 How to Read This Project
 
