@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 Track and visualize children’s growth based on accurate medical standards, compare it with international growth benchmarks, and enable easy data sharing and analysis.
 
+## 📌 Planning Process (30/11 - 14/12)
+https://docs.google.com/spreadsheets/d/1NhobiHcVMqvp82mLdyeBDjZFSTd8Z72CFMgBNB439Kw/edit?gid=1478269353#gid=1478269353
+
 ## Members:
 - Phan Ngọc Hạnh Nhi
 - Lê Thị Minh Tươi
