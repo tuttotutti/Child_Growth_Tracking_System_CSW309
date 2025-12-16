@@ -30,6 +30,7 @@ Read overviews (overall description & views) for the big picture
   - Long Use Cases.pdf *(Optional)*
 
 ### 4️⃣ diagrams Folder (Read in order)
+- Use case Diagram.pdf
 - ERD.jpg
 - DFD_Level_0.jpg
 - UML Diagram.jpg
